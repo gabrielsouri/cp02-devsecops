@@ -1,4 +1,4 @@
-# CP02 — DevSecOps · Duas Faces da Mesma Imagem
+# CP02 DevSecOps · Duas Faces da Mesma Imagem
 
 API Flask de login com JWT publicada em **duas versões Docker** com objetivo
 didático: uma vulnerável (insegura por design) e uma segura (hardening
