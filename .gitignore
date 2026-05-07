@@ -1,5 +1,9 @@
-# .env eh proposital pra demo, mas NUNCA commitado.
+# .env eh proposital pra demo, nunca commitado
 vulneravel/.env
+
+# Entregaveis nao versionados
+RELATORIO.md
+scans/
 
 # Python
 __pycache__/
@@ -7,10 +11,7 @@ __pycache__/
 venv/
 .venv/
 
-# OS
+# OS / Editor
 .DS_Store
-Thumbs.db
-
-# Editor
 .vscode/
 .idea/
