@@ -1,0 +1,12 @@
+# Versoes recentes, fixadas, validadas com pip-audit (0 CVEs em 06/05/2026).
+# Manter atualizadas via dependabot/renovate - a janela "0 CVEs" eh temporaria.
+Flask==3.1.3
+Werkzeug==3.1.6
+Jinja2==3.1.6
+itsdangerous==2.2.0
+click==8.1.7
+MarkupSafe==2.1.5
+PyJWT==2.12.0
+bcrypt==4.2.0
+marshmallow==3.26.2
+gunicorn==23.0.0

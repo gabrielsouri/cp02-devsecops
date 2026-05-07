@@ -1,0 +1,16 @@
+# .env eh proposital pra demo, mas NUNCA commitado.
+vulneravel/.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/

@@ -1,0 +1,50 @@
+# Git
+.git/
+.gitignore
+.github/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+*.egg-info/
+
+# Virtual envs
+venv/
+.venv/
+env/
+
+# Secrets - NUNCA dentro da imagem
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+secrets/
+credentials/
+id_rsa
+id_rsa.pub
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+*.swp
+
+# Docs / artefatos
+README.md
+RELATORIO.md
+docs/
+node_modules/
+dist/
+build/
+
+# Trivy outputs
+trivy-*.txt
+trivy-*.json
+trivy-*.html
